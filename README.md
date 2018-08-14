@@ -1,1 +1,1 @@
-# retrofit-recyclerview-pokemon
+# retrofit + recyclerview + pokemon
